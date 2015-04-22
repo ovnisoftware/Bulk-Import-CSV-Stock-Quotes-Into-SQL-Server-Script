@@ -8,7 +8,7 @@ How to get it to work:
 1. Download some .csv stock information using the Yahoo Finance Quote Downloader app I wrote (also on Github here:
 https://github.com/ovnisoftware/YahooFinanceQuoteDownloader)
 
-2. Create a new database in SQL Server (I used SSMS 2014 but it may work in previous versions but I didn't test it)
+2. Create a new database in SQL Server (I used SSMS 2014 but it may work in previous versions.  However I I didn't test it)
 
 3. Run the TickerPopulation.sql script to create the table that will hold all of the stock quotes.
 
